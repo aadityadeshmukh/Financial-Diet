@@ -17,21 +17,9 @@ name = "Service"
 url = "#service"
 weight = 3
 [[menu.main]]
-name = "Work"
-url = "#portfolio"
-weight = 4
-[[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
-[[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 6
-[[menu.main]]
 name = "Contact"
 url = "#contact"
-weight = 7
+weight = 4
 
 # Sitemap Menu
 [[menu.sitemap]]
@@ -58,7 +46,7 @@ copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+logo = "images/site-navigation/logo-fd.png"
 
 [params.address]
 address = "23 Khan Niketon, Grand Street, NYK."

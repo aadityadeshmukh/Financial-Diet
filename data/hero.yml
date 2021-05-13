@@ -7,6 +7,6 @@ content: >
   We help you achieve financial freedom with research based steps catered to your needs.
 buttonName: Get Started
 buttonURL: contact
-image: images/hero/hero-1.png
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image: images/hero/invest.jpg
+#videoThumb: images/hero/popup-thumb.png
+#videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
