@@ -32,7 +32,10 @@ body.dev {
   background: #ccc;
   min-height: 10000px;
 }
-
+body::-webkit-scrollbar
+{
+  display: none;
+}
 nav, header, section, footer {
   position: relative;
 }
