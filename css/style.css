@@ -393,6 +393,9 @@ b, strong {
     width: auto;
     padding-left: 40px;
   }
+  .main-header {
+    margin-top: 150px;
+  }
 }
 /* Smaller than 768px */
 @media (max-width: 767.98px) {
@@ -457,6 +460,18 @@ b, strong {
     font-size: 18px;
     font-weight: 500;
   }
+  /* .main-header {
+    margin-top: 250px;
+  }
+  .nav-elems{
+    display: none;
+  }
+  .header-image{
+    display: none;
+  }
+  .navigation_1{
+    margin-bottom: 100px;
+  } */
 }
 /* Smaller than 576px */
 @media (max-width: 575.98px) {
